@@ -1,4 +1,44 @@
-Hi there, **welcome to the Motion Studio!**
+Hi there, welcome to the **Motion Studio!**
+
+
+**Director**: Prof. Brian Kirby 
+
+**Associate Director**: Dr. Beatriz Asfora
+
+**Teaching Support Specialist**: Liran Gazit
+
+
+**The Drone Squad**
+
+**Current members**
+
+Nikolai Nekrutenko, EE & PHY '25
+
+Laurence Lai, ECE '26
+
+Lena Conde Araujo, Cornell '28
+
+**Past members**
+
+_Thanks for all your work. We wouldn’t be here without you_
+
+Deemo Chen, ECE '24
+
+Lauren Rogers, ME '24
+
+Megan Wong, ME '24
+
+Alison Mangano, ME '23
+
+Olivia Santiago, ME '27
+
+Will Coombs, ME '25
+
+**Honorary Members**
+
+Hannah Sherman, ME '26
+
+Noon Stellar,  ME '25
 
 
 <!--
