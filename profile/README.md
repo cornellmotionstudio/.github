@@ -12,7 +12,7 @@ Director | Prof. Brian Kirby | Associate Director| Dr. Beatriz Asfora | Teaching
 
 
 
-**The Drone Squad**
+## The Drone Squad
 
 **Current members**
 
