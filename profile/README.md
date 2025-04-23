@@ -20,7 +20,7 @@ Director | Prof. Brian Kirby | Associate Director| Dr. Beatriz Asfora | Teaching
 
 Nikolai Nekrutenko, EE & PHY '25 | Laurence Lai, ECE '26 | Lena Conde Araujo, Cornell '28
 
-**Past members**  &ensp; >>> _Thanks for all your work. We wouldn’t be here without you_
+**Past members**  &ensp; >>> _Thanks for all your work. We wouldn’t be here without you!_
 
 Deemo Chen, ECE '24 | Lauren Rogers, ME '24 | Megan Wong, ME '24
 
