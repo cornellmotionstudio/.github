@@ -16,11 +16,7 @@ Director | Prof. Brian Kirby | Associate Director| Dr. Beatriz Asfora | Teaching
 
 **Current members**
 
-Nikolai Nekrutenko, EE & PHY '25
-
-Laurence Lai, ECE '26
-
-Lena Conde Araujo, Cornell '28
+Nikolai Nekrutenko, EE & PHY '25 | Laurence Lai, ECE '26 | Lena Conde Araujo, Cornell '28
 
 **Past members**
 
