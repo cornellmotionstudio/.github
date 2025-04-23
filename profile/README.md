@@ -1,6 +1,6 @@
 Hi there, welcome to the
 
-## **Motion Studio!**
+## Motion Studio
 
  <p></p>
 
