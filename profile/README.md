@@ -5,6 +5,7 @@ Hi there, welcome to the **Motion Studio!**
 Director | Prof. Brian Kirby 
 
 Associate Director| Dr. Beatriz Asfora 
+
 Teaching Support Specialist | Liran Gazit
 
 
