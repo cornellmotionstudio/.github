@@ -1,13 +1,14 @@
 Hi there, welcome to the **Motion Studio!**
 
+**Director**| **Associate Director**| **Teaching Support Specialist**
+
+Prof. Brian Kirby | Dr. Beatriz Asfora | Liran Gazit
+
 
 <p align="center">
 <img width="400"  alt="Motion Studio" src="https://github.com/cornellmotionstudio/QuadPopUp/blob/master/images/MSlogo.jpg">
 </p> 
 
-**Director**| **Associate Director**| **Teaching Support Specialist**
-
-Prof. Brian Kirby | Dr. Beatriz Asfora | Liran Gazit
 
 
 
