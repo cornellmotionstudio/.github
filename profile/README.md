@@ -1,4 +1,4 @@
-Hi there, welcome to the
+Hi there, welcome to the...
 
 ## Motion Studio
 
