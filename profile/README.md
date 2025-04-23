@@ -1,6 +1,9 @@
 Hi there, welcome to the **Motion Studio!**
 
 
+<p align="center">
+<img width="400"  alt="Motion Studio" src="https://github.com/cornellmotionstudio/QuadPopUp/blob/master/images/MSlogo.jpg">
+</p> 
 
 **Director**| **Associate Director**| **Teaching Support Specialist**
 
