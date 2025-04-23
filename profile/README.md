@@ -1,5 +1,7 @@
 Hi there, welcome to the **Motion Studio!**
 
+ <p></p>
+
 **Director**| **Associate Director**| **Teaching Support Specialist**
 
 Prof. Brian Kirby | Dr. Beatriz Asfora | Liran Gazit
