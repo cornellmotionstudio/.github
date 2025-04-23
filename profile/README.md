@@ -1,4 +1,6 @@
-Hi there, welcome to the **Motion Studio!**
+Hi there, welcome to the
+
+## **Motion Studio!**
 
  <p></p>
 
