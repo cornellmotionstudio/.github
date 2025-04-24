@@ -1,4 +1,4 @@
-Hi there, welcome to the...
+Hi there, welcome!
 
 ## Motion Studio
 
@@ -24,7 +24,7 @@ Nikolai Nekrutenko, EE & PHY '25 | Laurence Lai, ECE '26 | Lena Conde Araujo, Co
 
 Deemo Chen, ECE '24 | Lauren Rogers, ME '24 | Megan Wong, ME '24
 
-Alison Mangano, ME '23 | Olivia Santiago, ME '27 | Will Coombs, ME '25
+Alison Mangano, ME '23 | Olivia Santiago, ME '27 | Will Coombs, ME '25 | Meilynn Stoll BA '27
 
 **Honorary Members**
 
