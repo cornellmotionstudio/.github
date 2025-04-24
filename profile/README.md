@@ -4,7 +4,7 @@ Hi there, welcome!
 
  <p></p>
 
-Director | Prof. Brian Kirby | Associate Director | Dr. Beatriz Asfora | Teaching Support Specialist | Liran Gazit
+Director | **Prof. Brian Kirby** | Associate Director | **Dr. Beatriz Asfora** | Teaching Support Specialist | Liran Gazit
 
 
 <p align="center">
