@@ -21,7 +21,7 @@ Teaching Support Specialists | Liran Gazit | David Hartino
 
 Nikolai Nekrutenko, EE & PHY '25 | Laurence Lai, ECE '26 | Lena Conde Araujo, Cornell '28
 
-**Past members** &ensp; _Thanks for all your work. We wouldn’t be here without you!_
+**Past members** >> _Thanks for all your work. We wouldn’t be here without you!_
 
 Deemo Chen, ECE '24 | Lauren Rogers, ME '24 | Megan Wong, ME '24 | Jisoo Kim, ECE '27
 
