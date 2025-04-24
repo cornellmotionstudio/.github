@@ -23,13 +23,13 @@ Nikolai Nekrutenko, EE & PHY '25 | Laurence Lai, ECE '26 | Lena Conde Araujo, Co
 
 **Past members** &ensp; >>> _Thanks for all your work. We wouldn’t be here without you!_
 
-Deemo Chen, ECE '24 | Lauren Rogers, ME '24 | Megan Wong, ME '24
+Deemo Chen, ECE '24 | Lauren Rogers, ME '24 | Megan Wong, ME '24 | Jisoo Kim, ECE '27
 
-Alison Mangano, ME '23 | Olivia Santiago, ME '27 | Will Coombs, ME '25 | Meilynn Stoll BA '27
+Alison Mangano, ME '23 | Olivia Santiago, ME '27 | Will Coombs, ME '25 | Meilynn Stoll, Math '27
 
 **Honorary Members**
 
-Hannah Sherman, ME '26 | Noon Stellar,  ME '25
+Hannah Sherman, ME '26 | Noon Stellar,  ME '25 | Albert Addo '25
 
 
 <!--
