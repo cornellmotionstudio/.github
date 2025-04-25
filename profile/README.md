@@ -4,9 +4,9 @@ Hi there, welcome!
 
  <p></p>
 
-Director | **Prof. Brian Kirby** | Associate Director | **Dr. Beatriz Asfora**
+Director | [**Prof. Brian Kirby**](https://github.coecis.cornell.edu/bk88) | Associate Director | [**Dr. Beatriz Asfora**](https://github.com/basfora)
 
-Teaching Support Specialists | Liran Gazit | David Hartino
+Teaching Support Specialists | [Liran Gazit](https://github.com/lirangazit), David Hartino
 
 <p align="center">
 <img width="400"  alt="Motion Studio" src="https://github.com/cornellmotionstudio/QuadPopUp/blob/master/images/MSlogo.jpg">
@@ -19,11 +19,11 @@ Teaching Support Specialists | Liran Gazit | David Hartino
 
 **Current members**
 
-Nikolai Nekrutenko, EE & PHY '25 | Laurence Lai, ECE '26 | Lena Conde Araujo, Cornell '28
+[Nikolai Nekrutenko](https://github.com/nekrutnikolai), EE & PHY '25 | [Laurence Lai](https://github.com/lerrylei), ECE '26 | [Lena Conde Araujo](https://github.com/rcyaon), Cornell '28
 
 **Past members** >> _Thanks for all your work. We wouldn’t be here without you!_
 
-Deemo Chen, ECE '24 | Lauren Rogers, ME '24 | Megan Wong, ME '24 | Jisoo Kim, ECE '27
+[Deemo Chen](https://github.com/Deemocean), ECE '24 | Lauren Rogers, ME '24 | Megan Wong, ME '24 | Jisoo Kim, ECE '27
 
 Alison Mangano, ME '23 | Olivia Santiago, ME '27 | Will Coombs, ME '25 | Meilynn Stoll, Math '27
 
