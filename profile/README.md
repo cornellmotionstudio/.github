@@ -19,7 +19,7 @@ Teaching Support Specialists | [Liran Gazit](https://github.com/lirangazit), Dav
 
 ## The Drone Squad
 
-**Members** >> _Thanks for all your work. We wouldn’t be here without you!_
+**Members** 
 
 [Nikolai Nekrutenko](https://github.com/nekrutnikolai), EE & PHY '25 | [Laurence Lai](https://github.com/lerrylei), ECE '26 | [Lena Conde Araujo](https://github.com/rcyaon), Cornell '28
 
@@ -30,6 +30,8 @@ Alison Mangano, ME '23 | Olivia Santiago, ME '27 | Will Coombs, ME '25 | Meilynn
 **Honorary Members**
 
 Hannah Sherman, ME '26 | Noon Stellar,  ME '25 | Albert Addo '25
+
+_Thanks for all your work!_
 
 
 <!--
