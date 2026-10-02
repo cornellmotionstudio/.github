@@ -1,5 +1,7 @@
 Hi there, welcome!
 
+For our Quad Workshop, click [here](https://github.com/cornellmotionstudio/QuadPopUp/wiki).
+
 ## Motion Studio
 
  <p></p>
@@ -17,11 +19,9 @@ Teaching Support Specialists | [Liran Gazit](https://github.com/lirangazit), Dav
 
 ## The Drone Squad
 
-**Current members**
+**Members** >> _Thanks for all your work. We wouldn’t be here without you!_
 
 [Nikolai Nekrutenko](https://github.com/nekrutnikolai), EE & PHY '25 | [Laurence Lai](https://github.com/lerrylei), ECE '26 | [Lena Conde Araujo](https://github.com/rcyaon), Cornell '28
-
-**Past members** >> _Thanks for all your work. We wouldn’t be here without you!_
 
 [Deemo Chen](https://github.com/Deemocean), ECE '24 | Lauren Rogers, ME '24 | Megan Wong, ME '24 | Jisoo Kim, ECE '27
 
